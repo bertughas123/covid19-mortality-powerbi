@@ -4,6 +4,7 @@ This repository contains Power BI dashboards analyzing infectious disease and CO
 
 ## 🧠 Projects
 - [COVID-19 Mortality Dashboard](covid_dashboard/README.md)
+- [Infectious Disease Dashboard (Before/After COVID-19)](infectious_dashboard/README.md)
 
 In these dashboards, open-source CDC and WHO datasets are cleaned and visualized using advanced analytics techniques.
 
